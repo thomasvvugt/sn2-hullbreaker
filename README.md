@@ -78,4 +78,4 @@ The Tadpole's upgrade inventory uses `UWEInventoryComponent` with a property `bA
 
 ## Credits
 
-- Built with [UE4SS](https://github.com/Subnautica2Modding/Subnautica2-UE4SS) by the Subnautica 2 Modding community
+- Built with [UE4SS](https://www.nexusmods.com/subnautica2/mods/36) by the Subnautica 2 Modding community
