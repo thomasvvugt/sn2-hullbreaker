@@ -29,8 +29,8 @@
 
 ## Requirements
 
-- [Subnautica 2](https://store.steampowered.com/app/1440110/Subnautica_2/) (Early Access)
-- [UE4SS](https://github.com/Subnautica2Modding/Subnautica2-UE4SS) v3.0.1 or later
+- Subnautica 2
+- [UE4SS](https://www.nexusmods.com/subnautica2/mods/36) v3.0.1 or later
 
 ## Uninstall
 
